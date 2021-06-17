@@ -1,0 +1,18 @@
+$primary : #CFFEDF;
+
+.list {
+    max-width: 618px;
+    margin: auto;
+    display:flex ;
+    justify-content: center;
+    align-content: center;
+    flex-wrap:  wrap ;
+
+    .l-item {
+        border-radius: 5px;
+        background-color: $primary;
+        margin:15px;
+        width : 176px;
+        height : 176px;
+    } 
+}

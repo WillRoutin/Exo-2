@@ -1,0 +1,23 @@
+.list {
+  max-width: 618px;
+  margin: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.list .l-item {
+  border-radius: 5px;
+  background-color: #CFFEDF;
+  margin: 15px;
+  width: 176px;
+  height: 176px;
+}
+/*# sourceMappingURL=main.css.map */
